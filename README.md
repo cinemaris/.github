@@ -1,2 +1,1 @@
-# .github
-Official repository for the GitHub public profile.
+# Official repository for the GitHub public profile.
